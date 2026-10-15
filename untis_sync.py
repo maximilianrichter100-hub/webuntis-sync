@@ -9,8 +9,8 @@ from icalendar import Calendar, Event
 # Konfiguration Hochschule Albstadt-Sigmaringen
 SCHOOL = "hs-albstadt"
 BASE_URL = "https://hs-albstadt.webuntis.com/WebUntis"
-TARGET_NAME = "DPM_1(WiSe)"
-ICS_FILENAME = "dpm_1wise.ics"
+TARGET_NAME = "DPM_1 (WiSe)"
+ICS_FILENAME = "dpm1_wiese.ics"
 TZ = zoneinfo.ZoneInfo("Europe/Berlin")
 
 def get_session():
