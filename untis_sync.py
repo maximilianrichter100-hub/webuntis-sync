@@ -1,12 +1,9 @@
-import os
-import re
 import sys
 from datetime import datetime, date, timedelta
 import zoneinfo
 import requests
 from icalendar import Calendar, Event
 
-# Konfiguration Hochschule Albstadt-Sigmaringen
 SCHOOL = "hs-albstadt"
 BASE_URL = "https://hs-albstadt.webuntis.com/WebUntis"
 TARGET_NAME = "DPM_1 (WiSe)"
@@ -16,88 +13,101 @@ TZ = zoneinfo.ZoneInfo("Europe/Berlin")
 def get_session():
     s = requests.Session()
     s.headers.update({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Content-Type": "application/json"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Referer": f"{BASE_URL}/?school={SCHOOL}"
     })
+    # Wichtig: Einmal die Hauptseite laden, damit WebUntis die Session-Cookies setzt!
+    try:
+        s.get(f"{BASE_URL}/?school={SCHOOL}", timeout=20)
+    except Exception as e:
+        print(f"[Warnung] Initialer Cookie-Abruf: {e}")
     return s
 
 def resolve_target_id(session):
-    """Ermittelt dynamisch die interne WebUntis-Klassen-ID für DPM1 (Wiese)"""
-    url = f"{BASE_URL}/api/public/timetable/weekly/pageconfig?type=1"
-    params = {"school": SCHOOL}
-    try:
-        res = session.get(url, params=params, timeout=20)
-        res.raise_for_status()
-        data = res.json()
-        elements = data.get("data", {}).get("elements", [])
-        for elem in elements:
-            name = elem.get("name", "")
-            display_name = elem.get("displayname", "")
-            if TARGET_NAME.lower() in name.lower() or TARGET_NAME.lower() in display_name.lower() or "dpm1" in name.lower():
-                print(f"[OK] Klasse gefunden: '{name}' (ID: {elem.get('id')})")
-                return elem.get("id"), name
-    except Exception as e:
-        print(f"[Warnung] Pageconfig-Lookup fehlgeschlagen: {e}")
+    # Suche über alle relevanten Typen (1 = Klasse/Studiengang)
+    for t in [1, 2, 3, 4]:
+        url = f"{BASE_URL}/api/public/timetable/weekly/pageconfig"
+        params = {"type": t, "school": SCHOOL}
+        try:
+            res = session.get(url, params=params, timeout=20)
+            if res.status_code == 200:
+                elements = res.json().get("data", {}).get("elements", [])
+                for elem in elements:
+                    name = str(elem.get("name", ""))
+                    long_name = str(elem.get("longName", ""))
+                    display_name = str(elem.get("displayname", ""))
+                    combined = f"{name} {long_name} {display_name}".lower()
+                    
+                    if "dpm_1" in combined or "dpm1" in combined:
+                        print(f"[OK] Gefunden (Typ {t}): '{name}' / '{long_name}' (ID: {elem.get('id')})")
+                        return elem.get("id"), t
+        except Exception as e:
+            print(f"[Warnung] Pageconfig Typ {t} fehlgeschlagen: {e}")
 
-    # Fallback via JSON-RPC Klassenliste
+    # Fallback über JSON-RPC API
     rpc_url = f"{BASE_URL}/jsonrpc.do?school={SCHOOL}"
-    payload = {
-        "id": "1",
-        "method": "getKlassen",
-        "params": {},
-        "jsonrpc": "2.0"
-    }
+    payload = {"id": "1", "method": "getKlassen", "params": {}, "jsonrpc": "2.0"}
     try:
         res = session.post(rpc_url, json=payload, timeout=20)
-        res.raise_for_status()
-        result = res.json().get("result", [])
-        for k in result:
-            name = k.get("name", "")
-            long_name = k.get("longName", "")
-            if "dpm" in name.lower() or "dpm" in long_name.lower():
-                print(f"[OK] Klasse über RPC gefunden: '{name}' (ID: {k.get('id')})")
-                return k.get("id"), name
+        if res.status_code == 200:
+            for k in res.json().get("result", []):
+                name = str(k.get("name", ""))
+                long_name = str(k.get("longName", ""))
+                if "dpm_1" in name.lower() or "dpm_1" in long_name.lower() or "dpm1" in name.lower():
+                    print(f"[OK] Über RPC gefunden: '{name}' (ID: {k.get('id')})")
+                    return k.get("id"), 1
     except Exception as e:
-        print(f"[Warnung] RPC-Lookup fehlgeschlagen: {e}")
+        print(f"[Warnung] RPC fehlgeschlagen: {e}")
 
-    # Standard-Fallback falls API-Listing blockiert ist
-    print("[Info] Verwende Standard-Fallback-ID.")
-    return None, TARGET_NAME
+    return None, 1
 
-def fetch_timetable_data(session, element_id):
-    """Liest Termine über 12 Wochen ab heute aus"""
-    start_date = date.today() - timedelta(days=date.today().weekday()) # Montag aktueller Woche
+def fetch_timetable_data(session, element_id, element_type):
+    # Starte am Montag der aktuellen Woche
+    today = date.today()
+    start_date = today - timedelta(days=today.weekday())
     all_lessons = []
 
-    # Frage 12 Wochen in 2-Wochen-Schritten ab
-    for w in range(0, 12, 2):
+    if not element_id:
+        print("[FEHLER] Klassen-ID für DPM_1 (WiSe) konnte nicht gefunden werden!")
+        return all_lessons
+
+    # 18 Wochen im Voraus abrufen (deckt das komplette Semester ab)
+    for w in range(0, 18):
         cur_date = start_date + timedelta(weeks=w)
         date_str = cur_date.strftime("%Y-%m-%d")
         url = f"{BASE_URL}/api/public/timetable/weekly/data"
         params = {
-            "school": SCHOOL,
-            "elementType": 1,
-            "elementId": element_id if element_id else 0,
+            "elementType": element_type,
+            "elementId": element_id,
             "date": date_str,
             "formatId": 1
         }
         try:
             res = session.get(url, params=params, timeout=25)
             if res.status_code == 200:
-                payload = res.json()
-                data = payload.get("data", {})
-                elements_map = {el["id"]: el.get("displayname", el.get("name", "")) 
-                                for el in data.get("result", {}).get("data", {}).get("elements", []) if "id" in el}
+                result_data = res.json().get("data", {}).get("result", {}).get("data", {})
                 
-                element_periods = data.get("result", {}).get("data", {}).get("elementPeriods", {})
-                # elementPeriods ist oft ein Dict mit ID als Key
-                periods = []
-                for p_list in element_periods.values():
-                    if isinstance(p_list, list):
-                        periods.extend(p_list)
+                # Mapping aller IDs zu lesbaren Namen (Fächer, Räume, Dozenten)
+                elements_map = {}
+                for el in result_data.get("elements", []):
+                    eid = el.get("id")
+                    etype = el.get("type")
+                    ename = el.get("longName") or el.get("displayname") or el.get("name") or ""
+                    elements_map[(etype, eid)] = ename
+
+                element_periods = result_data.get("elementPeriods", {})
+                periods = element_periods.get(str(element_id), [])
+                if not periods:
+                    for p_list in element_periods.values():
+                        if isinstance(p_list, list):
+                            periods.extend(p_list)
 
                 for item in periods:
-                    # Untis liefert Datums-Integer z. B. 20261015 und Zeiten 800 (08:00) oder 1415 (14:15)
+                    # Überspringe komplett ausgefallene Stunden
+                    if item.get("cellState") == "CANCEL":
+                        continue
+
                     raw_date = str(item.get("date"))
                     raw_start = str(item.get("startTime")).zfill(4)
                     raw_end = str(item.get("endTime")).zfill(4)
@@ -105,14 +115,23 @@ def fetch_timetable_data(session, element_id):
                     dt_start = datetime.strptime(f"{raw_date}{raw_start}", "%Y%m%d%H%M").replace(tzinfo=TZ)
                     dt_end = datetime.strptime(f"{raw_date}{raw_end}", "%Y%m%d%H%M").replace(tzinfo=TZ)
 
-                    # Zugehörige Fächer/Räume auflösen
-                    subjects = [elements_map.get(el.get("id"), "") for el in item.get("elements", []) if el.get("type") == 3]
-                    teachers = [elements_map.get(el.get("id"), "") for el in item.get("elements", []) if el.get("type") == 2]
-                    rooms = [elements_map.get(el.get("id"), "") for el in item.get("elements", []) if el.get("type") == 4]
+                    subjects, teachers, rooms = [], [], []
+                    for el in item.get("elements", []):
+                        etype = el.get("type")
+                        eid = el.get("id")
+                        name_val = elements_map.get((etype, eid), "")
+                        if name_val:
+                            if etype == 3:
+                                subjects.append(name_val)
+                            elif etype == 2:
+                                teachers.append(name_val)
+                            elif etype == 4:
+                                rooms.append(name_val)
 
-                    subject_str = ", ".join(filter(None, subjects)) or "Vorlesung"
-                    teacher_str = ", ".join(filter(None, teachers))
-                    room_str = ", ".join(filter(None, rooms))
+                    subject_str = ", ".join(dict.fromkeys(subjects)) or item.get("lessonText") or "Vorlesung"
+                    teacher_str = ", ".join(dict.fromkeys(teachers))
+                    room_str = ", ".join(dict.fromkeys(rooms))
+                    notes_str = item.get("periodText") or item.get("lessonText") or ""
 
                     all_lessons.append({
                         "id": item.get("id"),
@@ -121,25 +140,25 @@ def fetch_timetable_data(session, element_id):
                         "subject": subject_str,
                         "teacher": teacher_str,
                         "room": room_str,
-                        "notes": item.get("lessonText", "") or ""
+                        "notes": notes_str
                     })
         except Exception as err:
-            print(f"[Fehler] Abruf für Woche {date_str}: {err}")
+            print(f"[Fehler] Abruf Woche {date_str}: {err}")
 
     return all_lessons
 
 def build_ics(lessons):
     cal = Calendar()
-    cal.add("prodid", "-//WebUntis Sync Albstadt//DE")
+    cal.add("prodid", "-//WebUntis Sync HS Albstadt//DE")
     cal.add("version", "2.0")
-    cal.add("x-wr-calname", f"{TARGET_NAME} - WebUntis")
+    cal.add("x-wr-calname", f"{TARGET_NAME} - Stundenplan")
     cal.add("x-wr-timezone", "Europe/Berlin")
 
-    # Duplikate filtern nach eindeutiger UID
     seen_uids = set()
 
     for item in lessons:
-        uid = f"untis-{item.get('id') or item['start'].strftime('%Y%m%d%H%M')}@hs-albstadt"
+        # Eindeutige ID pro Terminblock
+        uid = f"untis-{item['start'].strftime('%Y%m%dT%H%M')}-{item['subject'][:12].replace(' ', '')}@hs-albstadt"
         if uid in seen_uids:
             continue
         seen_uids.add(uid)
@@ -147,19 +166,18 @@ def build_ics(lessons):
         ev = Event()
         summary = item["subject"]
         if item["room"]:
-            summary += f" ({item['room']})"
-        
-        desc_lines = []
+            summary += f" [{item['room']}]"
+
+        desc = []
         if item["teacher"]:
-            desc_lines.append(f"Dozent: {item['teacher']}")
+            desc.append(f"Dozent: {item['teacher']}")
         if item["room"]:
-            desc_lines.append(f"Raum: {item['room']}")
+            desc.append(f"Raum: {item['room']}")
         if item["notes"]:
-            desc_lines.append(f"Hinweis: {item['notes']}")
-        desc_lines.append("Automatisch synchronisiert aus WebUntis.")
+            desc.append(f"Info: {item['notes']}")
 
         ev.add("summary", summary)
-        ev.add("description", "\n".join(desc_lines))
+        ev.add("description", "\n".join(desc))
         if item["room"]:
             ev.add("location", item["room"])
         ev.add("dtstart", item["start"])
@@ -171,10 +189,10 @@ def build_ics(lessons):
 
     with open(ICS_FILENAME, "wb") as f:
         f.write(cal.to_ical())
-    print(f"[ERFOLG] {len(seen_uids)} Termine in '{ICS_FILENAME}' exportiert.")
+    print(f"[ERFOLG] {len(seen_uids)} Vorlesungstermine erfolgreich in '{ICS_FILENAME}' gespeichert!")
 
 if __name__ == "__main__":
-    session = get_session()
-    class_id, class_name = resolve_target_id(session)
-    lessons = fetch_timetable_data(session, class_id)
+    s = get_session()
+    cid, ctype = resolve_target_id(s)
+    lessons = fetch_timetable_data(s, cid, ctype)
     build_ics(lessons)
