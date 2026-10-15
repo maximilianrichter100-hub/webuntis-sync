@@ -1,0 +1,46 @@
+name: Sync WebUntis Timetable
+
+on:
+  schedule:
+    # Läuft 3x am Tag: um 05:00, 11:00 und 16:00 Uhr UTC
+    # (entspricht 07:00, 13:00 und 18:00 Uhr deutscher Sommerzeit)
+    - cron: '0 5,11,16 * * *'
+  workflow_dispatch: # Ermöglicht den manuellen Start über die GitHub-Weboberfläche
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bibliotheken installieren
+        run: |
+          pip install --upgrade pip
+          pip install requests icalendar
+
+      - name: Stundenplan abrufen & ICS generieren
+        run: python untis_sync.py
+
+      - name: Kalenderdatei committen & pushen
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dpm1_wiese.ics
+
+          # Nur committen, wenn Termine hinzugekommen oder geändert wurden
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen vorhanden - Repository ist aktuell."
+          else
+            git commit -m "Auto-Sync: Stundenplan DPM1 (Wiese) aktualisiert"
+            git push
+          fi
