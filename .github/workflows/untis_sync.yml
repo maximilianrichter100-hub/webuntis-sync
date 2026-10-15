@@ -2,7 +2,6 @@ name: Sync WebUntis Timetable
 
 on:
   schedule:
-    # Läuft automatisch 3x am Tag (Morgens, Mittags, Abends)
     - cron: '0 5,11,17 * * *'
   workflow_dispatch:
 
@@ -16,6 +15,8 @@ jobs:
     steps:
       - name: Code auschecken
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python einrichten
         uses: actions/setup-python@v5
@@ -26,6 +27,9 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install requests icalendar
+
+      - name: Neuesten Stand vom Repo holen
+        run: git pull origin main
 
       - name: Stundenplan abrufen & ICS generieren
         run: python untis_sync.py
@@ -40,6 +44,5 @@ jobs:
             echo "Keine Änderungen am Stundenplan."
           else
             git commit -m "Auto-Sync: Stundenplan DPM_1 (WiSe) aktualisiert"
-            git pull --rebase origin main
-            git push origin main
+            git push --force origin main
           fi
