@@ -9,7 +9,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261022T113000
 DTEND;TZID=Europe/Berlin:20261022T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261022T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261020T173000
 DTEND;TZID=Europe/Berlin:20261020T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261020T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -31,7 +31,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261020T094500
 DTEND;TZID=Europe/Berlin:20261020T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261020T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -43,7 +43,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261021T140000
 DTEND;TZID=Europe/Berlin:20261021T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261021T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -58,7 +58,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261021T154500
 DTEND;TZID=Europe/Berlin:20261021T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261021T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things
 DTSTART;TZID=Europe/Berlin:20261021T173000
 DTEND;TZID=Europe/Berlin:20261021T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261021T1730-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend
 END:VEVENT
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261023T154500
 DTEND;TZID=Europe/Berlin:20261023T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261023T1545-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261023T173000
 DTEND;TZID=Europe/Berlin:20261023T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261023T1730-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -99,7 +99,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261019T173000
 DTEND;TZID=Europe/Berlin:20261019T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261019T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261019T154500
 DTEND;TZID=Europe/Berlin:20261019T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261019T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -123,7 +123,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261019T094500
 DTEND;TZID=Europe/Berlin:20261019T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261019T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -133,7 +133,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261019T113000
 DTEND;TZID=Europe/Berlin:20261019T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261019T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -143,7 +143,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261021T113000
 DTEND;TZID=Europe/Berlin:20261021T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261021T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261019T080000
 DTEND;TZID=Europe/Berlin:20261019T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261019T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -164,7 +164,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261029T113000
 DTEND;TZID=Europe/Berlin:20261029T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261029T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -177,7 +177,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261027T094500
 DTEND;TZID=Europe/Berlin:20261027T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261027T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -189,7 +189,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261028T140000
 DTEND;TZID=Europe/Berlin:20261028T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261028T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -204,7 +204,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261028T154500
 DTEND;TZID=Europe/Berlin:20261028T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261028T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261028T094500
 DTEND;TZID=Europe/Berlin:20261028T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261028T0945-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261029T094500
 DTEND;TZID=Europe/Berlin:20261029T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261029T0945-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261027T140000
 DTEND;TZID=Europe/Berlin:20261027T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261027T1400-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261027T154500
 DTEND;TZID=Europe/Berlin:20261027T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261027T1545-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -255,7 +255,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261026T173000
 DTEND;TZID=Europe/Berlin:20261026T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261026T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261026T154500
 DTEND;TZID=Europe/Berlin:20261026T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261026T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -279,7 +279,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261026T094500
 DTEND;TZID=Europe/Berlin:20261026T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261026T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -289,7 +289,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261026T113000
 DTEND;TZID=Europe/Berlin:20261026T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261026T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -299,7 +299,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261028T113000
 DTEND;TZID=Europe/Berlin:20261028T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261028T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261026T080000
 DTEND;TZID=Europe/Berlin:20261026T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261026T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -320,7 +320,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning [Vorlesungsraum\, W
   Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261030T080000
 DTEND;TZID=Europe/Berlin:20261030T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261030T0800-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, Projektraum T-Gebäud
@@ -335,7 +335,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning [Vorlesungsraum\, W
   Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261030T094500
 DTEND;TZID=Europe/Berlin:20261030T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261030T0945-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, Projektraum T-Gebäud
@@ -350,7 +350,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning [Vorlesungsraum\, W
   Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261030T113000
 DTEND;TZID=Europe/Berlin:20261030T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261030T1130-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, Projektraum T-Gebäud
@@ -365,7 +365,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning [Vorlesungsraum\, W
   Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261030T140000
 DTEND;TZID=Europe/Berlin:20261030T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261030T1400-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, Projektraum T-Gebäud
@@ -380,7 +380,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning [Vorlesungsraum\, W
   Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261030T154500
 DTEND;TZID=Europe/Berlin:20261030T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261030T1545-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, Projektraum T-Gebäud
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261106T080000
 DTEND;TZID=Europe/Berlin:20261106T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261106T0800-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261106T094500
 DTEND;TZID=Europe/Berlin:20261106T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261106T0945-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261106T113000
 DTEND;TZID=Europe/Berlin:20261106T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261106T1130-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261106T140000
 DTEND;TZID=Europe/Berlin:20261106T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261106T1400-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261106T154500
 DTEND;TZID=Europe/Berlin:20261106T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261106T1545-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261107T080000
 DTEND;TZID=Europe/Berlin:20261107T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261107T0800-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261107T094500
 DTEND;TZID=Europe/Berlin:20261107T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261107T0945-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261107T113000
 DTEND;TZID=Europe/Berlin:20261107T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261107T1130-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261107T140000
 DTEND;TZID=Europe/Berlin:20261107T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261107T1400-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261107T154500
 DTEND;TZID=Europe/Berlin:20261107T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261107T1545-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261103T173000
 DTEND;TZID=Europe/Berlin:20261103T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261103T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -493,7 +493,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261103T094500
 DTEND;TZID=Europe/Berlin:20261103T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261103T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -505,7 +505,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261104T140000
 DTEND;TZID=Europe/Berlin:20261104T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261104T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -520,7 +520,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261104T154500
 DTEND;TZID=Europe/Berlin:20261104T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261104T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261102T140000
 DTEND;TZID=Europe/Berlin:20261102T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261102T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261104T173000
 DTEND;TZID=Europe/Berlin:20261104T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261104T1730-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -553,7 +553,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261102T173000
 DTEND;TZID=Europe/Berlin:20261102T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261102T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261102T154500
 DTEND;TZID=Europe/Berlin:20261102T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261102T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -577,7 +577,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261102T094500
 DTEND;TZID=Europe/Berlin:20261102T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261102T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -587,7 +587,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261102T113000
 DTEND;TZID=Europe/Berlin:20261102T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261102T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -597,7 +597,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261104T113000
 DTEND;TZID=Europe/Berlin:20261104T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261104T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261102T080000
 DTEND;TZID=Europe/Berlin:20261102T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261102T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Karrierebörse
 DTSTART;TZID=Europe/Berlin:20261105T080000
 DTEND;TZID=Europe/Berlin:20261105T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261105T0800-Karrierebörs@hs-albstadt
 DESCRIPTION:Info: in Sigmaringen\, Bustransfer 9:00 Uhr ab Albstadt
 END:VEVENT
@@ -626,7 +626,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261112T113000
 DTEND;TZID=Europe/Berlin:20261112T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261112T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261110T173000
 DTEND;TZID=Europe/Berlin:20261110T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261110T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -648,7 +648,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261110T094500
 DTEND;TZID=Europe/Berlin:20261110T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261110T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -660,7 +660,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261111T140000
 DTEND;TZID=Europe/Berlin:20261111T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261111T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -675,7 +675,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261111T154500
 DTEND;TZID=Europe/Berlin:20261111T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261111T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -688,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261109T140000
 DTEND;TZID=Europe/Berlin:20261109T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261109T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261110T140000
 DTEND;TZID=Europe/Berlin:20261110T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261110T1400-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -706,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261110T154500
 DTEND;TZID=Europe/Berlin:20261110T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261110T1545-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261111T173000
 DTEND;TZID=Europe/Berlin:20261111T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261111T1730-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -726,7 +726,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261109T173000
 DTEND;TZID=Europe/Berlin:20261109T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261109T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261109T154500
 DTEND;TZID=Europe/Berlin:20261109T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261109T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -750,7 +750,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261109T094500
 DTEND;TZID=Europe/Berlin:20261109T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261109T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -760,7 +760,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261109T113000
 DTEND;TZID=Europe/Berlin:20261109T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261109T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -770,7 +770,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261111T113000
 DTEND;TZID=Europe/Berlin:20261111T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261111T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -780,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261114T080000
 DTEND;TZID=Europe/Berlin:20261114T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261114T0800-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -789,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261114T094500
 DTEND;TZID=Europe/Berlin:20261114T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261114T0945-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261114T113000
 DTEND;TZID=Europe/Berlin:20261114T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261114T1130-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261109T080000
 DTEND;TZID=Europe/Berlin:20261109T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261109T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -817,7 +817,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261112T080000
 DTEND;TZID=Europe/Berlin:20261112T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261112T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -827,7 +827,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261112T094500
 DTEND;TZID=Europe/Berlin:20261112T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261112T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -838,7 +838,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261119T113000
 DTEND;TZID=Europe/Berlin:20261119T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261119T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20261119T140000
 DTEND;TZID=Europe/Berlin:20261119T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261119T1400-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20261119T154500
 DTEND;TZID=Europe/Berlin:20261119T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261119T1545-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20261119T173000
 DTEND;TZID=Europe/Berlin:20261119T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261119T1730-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -877,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261117T173000
 DTEND;TZID=Europe/Berlin:20261117T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261117T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -887,7 +887,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261117T094500
 DTEND;TZID=Europe/Berlin:20261117T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261117T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -899,7 +899,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261118T140000
 DTEND;TZID=Europe/Berlin:20261118T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261118T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -914,7 +914,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261118T154500
 DTEND;TZID=Europe/Berlin:20261118T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261118T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -927,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261116T140000
 DTEND;TZID=Europe/Berlin:20261116T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261116T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things
 DTSTART;TZID=Europe/Berlin:20261120T140000
 DTEND;TZID=Europe/Berlin:20261120T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261120T1400-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend
 END:VEVENT
@@ -944,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261120T154500
 DTEND;TZID=Europe/Berlin:20261120T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261120T1545-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261120T173000
 DTEND;TZID=Europe/Berlin:20261120T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261120T1730-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -964,7 +964,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261116T173000
 DTEND;TZID=Europe/Berlin:20261116T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261116T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261116T154500
 DTEND;TZID=Europe/Berlin:20261116T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261116T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -988,7 +988,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261116T094500
 DTEND;TZID=Europe/Berlin:20261116T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261116T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -998,7 +998,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261116T113000
 DTEND;TZID=Europe/Berlin:20261116T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261116T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1008,7 +1008,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261118T113000
 DTEND;TZID=Europe/Berlin:20261118T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261118T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -1018,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261121T080000
 DTEND;TZID=Europe/Berlin:20261121T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261121T0800-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261121T094500
 DTEND;TZID=Europe/Berlin:20261121T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261121T0945-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -1036,7 +1036,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261121T113000
 DTEND;TZID=Europe/Berlin:20261121T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261121T1130-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -1045,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261116T080000
 DTEND;TZID=Europe/Berlin:20261116T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261116T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -1055,7 +1055,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261119T080000
 DTEND;TZID=Europe/Berlin:20261119T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261119T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1065,7 +1065,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261119T094500
 DTEND;TZID=Europe/Berlin:20261119T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261119T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1076,7 +1076,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261126T113000
 DTEND;TZID=Europe/Berlin:20261126T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261126T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -1088,7 +1088,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion
 DTSTART;TZID=Europe/Berlin:20261126T140000
 DTEND;TZID=Europe/Berlin:20261126T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261126T1400-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck
 END:VEVENT
@@ -1096,7 +1096,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion
 DTSTART;TZID=Europe/Berlin:20261126T154500
 DTEND;TZID=Europe/Berlin:20261126T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261126T1545-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck
 END:VEVENT
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion
 DTSTART;TZID=Europe/Berlin:20261126T173000
 DTEND;TZID=Europe/Berlin:20261126T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261126T1730-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck
 END:VEVENT
@@ -1112,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261124T173000
 DTEND;TZID=Europe/Berlin:20261124T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261124T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -1122,7 +1122,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261124T094500
 DTEND;TZID=Europe/Berlin:20261124T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261124T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -1134,7 +1134,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261125T140000
 DTEND;TZID=Europe/Berlin:20261125T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261125T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1149,7 +1149,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261125T154500
 DTEND;TZID=Europe/Berlin:20261125T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261125T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261123T140000
 DTEND;TZID=Europe/Berlin:20261123T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261123T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -1171,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261124T140000
 DTEND;TZID=Europe/Berlin:20261124T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261124T1400-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -1180,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261124T154500
 DTEND;TZID=Europe/Berlin:20261124T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261124T1545-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -1189,7 +1189,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261127T140000
 DTEND;TZID=Europe/Berlin:20261127T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261127T1400-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1198,7 +1198,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261127T154500
 DTEND;TZID=Europe/Berlin:20261127T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261127T1545-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1207,7 +1207,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261127T173000
 DTEND;TZID=Europe/Berlin:20261127T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261127T1730-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1216,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20261125T173000
 DTEND;TZID=Europe/Berlin:20261125T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261125T1730-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -1227,7 +1227,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261123T173000
 DTEND;TZID=Europe/Berlin:20261123T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261123T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1241,7 +1241,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261123T154500
 DTEND;TZID=Europe/Berlin:20261123T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261123T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -1251,7 +1251,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261123T094500
 DTEND;TZID=Europe/Berlin:20261123T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261123T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1261,7 +1261,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261123T113000
 DTEND;TZID=Europe/Berlin:20261123T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261123T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1271,7 +1271,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261125T113000
 DTEND;TZID=Europe/Berlin:20261125T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261125T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261123T080000
 DTEND;TZID=Europe/Berlin:20261123T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261123T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -1291,7 +1291,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261126T080000
 DTEND;TZID=Europe/Berlin:20261126T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261126T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1301,7 +1301,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261126T094500
 DTEND;TZID=Europe/Berlin:20261126T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261126T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1310,7 +1310,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261204T080000
 DTEND;TZID=Europe/Berlin:20261204T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261204T0800-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -1319,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261204T094500
 DTEND;TZID=Europe/Berlin:20261204T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261204T0945-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -1328,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261204T113000
 DTEND;TZID=Europe/Berlin:20261204T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261204T1130-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -1337,7 +1337,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261204T140000
 DTEND;TZID=Europe/Berlin:20261204T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261204T1400-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -1346,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen [online]
 DTSTART;TZID=Europe/Berlin:20261204T154500
 DTEND;TZID=Europe/Berlin:20261204T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261204T1545-WPM-M:Block@hs-albstadt
 DESCRIPTION:Dozent: Mauk\nRaum: online
 LOCATION:online
@@ -1357,7 +1357,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261203T113000
 DTEND;TZID=Europe/Berlin:20261203T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261203T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -1369,7 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261201T173000
 DTEND;TZID=Europe/Berlin:20261201T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261201T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -1379,7 +1379,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261201T094500
 DTEND;TZID=Europe/Berlin:20261201T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261201T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -1391,7 +1391,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261202T140000
 DTEND;TZID=Europe/Berlin:20261202T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261202T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1406,7 +1406,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261202T154500
 DTEND;TZID=Europe/Berlin:20261202T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261202T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1419,7 +1419,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261130T140000
 DTEND;TZID=Europe/Berlin:20261130T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261130T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -1430,7 +1430,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261130T173000
 DTEND;TZID=Europe/Berlin:20261130T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261130T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1444,7 +1444,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261130T154500
 DTEND;TZID=Europe/Berlin:20261130T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261130T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -1454,7 +1454,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261130T094500
 DTEND;TZID=Europe/Berlin:20261130T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261130T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1464,7 +1464,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261130T113000
 DTEND;TZID=Europe/Berlin:20261130T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261130T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1474,7 +1474,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261202T113000
 DTEND;TZID=Europe/Berlin:20261202T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261202T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -1484,7 +1484,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261205T080000
 DTEND;TZID=Europe/Berlin:20261205T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261205T0800-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -1493,7 +1493,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261205T094500
 DTEND;TZID=Europe/Berlin:20261205T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261205T0945-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -1502,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20261205T113000
 DTEND;TZID=Europe/Berlin:20261205T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261205T1130-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -1511,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261130T080000
 DTEND;TZID=Europe/Berlin:20261130T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261130T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -1521,7 +1521,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261203T080000
 DTEND;TZID=Europe/Berlin:20261203T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261203T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1531,7 +1531,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261203T094500
 DTEND;TZID=Europe/Berlin:20261203T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261203T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1542,7 +1542,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261210T113000
 DTEND;TZID=Europe/Berlin:20261210T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261210T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -1554,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20261210T140000
 DTEND;TZID=Europe/Berlin:20261210T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261210T1400-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -1563,7 +1563,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20261210T154500
 DTEND;TZID=Europe/Berlin:20261210T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261210T1545-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -1572,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20261210T173000
 DTEND;TZID=Europe/Berlin:20261210T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261210T1730-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -1581,7 +1581,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261208T173000
 DTEND;TZID=Europe/Berlin:20261208T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261208T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -1591,7 +1591,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261208T094500
 DTEND;TZID=Europe/Berlin:20261208T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261208T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -1603,7 +1603,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261209T140000
 DTEND;TZID=Europe/Berlin:20261209T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261209T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1618,7 +1618,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261209T154500
 DTEND;TZID=Europe/Berlin:20261209T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261209T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1631,7 +1631,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261207T140000
 DTEND;TZID=Europe/Berlin:20261207T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261207T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -1640,7 +1640,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261208T140000
 DTEND;TZID=Europe/Berlin:20261208T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261208T1400-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -1649,7 +1649,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20261208T154500
 DTEND;TZID=Europe/Berlin:20261208T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261208T1545-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -1658,7 +1658,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261211T140000
 DTEND;TZID=Europe/Berlin:20261211T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261211T1400-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1667,7 +1667,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261211T154500
 DTEND;TZID=Europe/Berlin:20261211T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261211T1545-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1676,7 +1676,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261211T173000
 DTEND;TZID=Europe/Berlin:20261211T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261211T1730-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1687,7 +1687,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261207T173000
 DTEND;TZID=Europe/Berlin:20261207T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261207T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261207T154500
 DTEND;TZID=Europe/Berlin:20261207T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261207T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -1711,7 +1711,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261207T094500
 DTEND;TZID=Europe/Berlin:20261207T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261207T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1721,7 +1721,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261207T113000
 DTEND;TZID=Europe/Berlin:20261207T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261207T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1731,7 +1731,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261209T113000
 DTEND;TZID=Europe/Berlin:20261209T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261209T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -1741,7 +1741,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [online]
 DTSTART;TZID=Europe/Berlin:20261212T080000
 DTEND;TZID=Europe/Berlin:20261212T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261212T0800-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: online
 LOCATION:online
@@ -1750,7 +1750,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [online]
 DTSTART;TZID=Europe/Berlin:20261212T094500
 DTEND;TZID=Europe/Berlin:20261212T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261212T0945-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: online
 LOCATION:online
@@ -1759,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [online]
 DTSTART;TZID=Europe/Berlin:20261212T113000
 DTEND;TZID=Europe/Berlin:20261212T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261212T1130-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: online
 LOCATION:online
@@ -1768,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261207T080000
 DTEND;TZID=Europe/Berlin:20261207T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261207T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -1779,7 +1779,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261217T113000
 DTEND;TZID=Europe/Berlin:20261217T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261217T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -1791,7 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261215T173000
 DTEND;TZID=Europe/Berlin:20261215T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261215T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -1801,7 +1801,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261215T094500
 DTEND;TZID=Europe/Berlin:20261215T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261215T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -1813,7 +1813,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261216T140000
 DTEND;TZID=Europe/Berlin:20261216T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261216T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1828,7 +1828,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261216T154500
 DTEND;TZID=Europe/Berlin:20261216T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261216T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1841,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261214T140000
 DTEND;TZID=Europe/Berlin:20261214T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261214T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -1850,7 +1850,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261218T140000
 DTEND;TZID=Europe/Berlin:20261218T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261218T1400-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1859,7 +1859,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261218T154500
 DTEND;TZID=Europe/Berlin:20261218T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261218T1545-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1868,7 +1868,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261218T173000
 DTEND;TZID=Europe/Berlin:20261218T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261218T1730-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -1879,7 +1879,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261214T173000
 DTEND;TZID=Europe/Berlin:20261214T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261214T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -1893,7 +1893,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261214T154500
 DTEND;TZID=Europe/Berlin:20261214T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261214T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -1903,7 +1903,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261214T094500
 DTEND;TZID=Europe/Berlin:20261214T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261214T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1913,7 +1913,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261214T113000
 DTEND;TZID=Europe/Berlin:20261214T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261214T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -1923,7 +1923,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261216T113000
 DTEND;TZID=Europe/Berlin:20261216T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261216T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -1933,7 +1933,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [Online]
 DTSTART;TZID=Europe/Berlin:20261219T080000
 DTEND;TZID=Europe/Berlin:20261219T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261219T0800-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: Online
 LOCATION:Online
@@ -1942,7 +1942,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [Online]
 DTSTART;TZID=Europe/Berlin:20261219T094500
 DTEND;TZID=Europe/Berlin:20261219T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261219T0945-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: Online
 LOCATION:Online
@@ -1951,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [Online]
 DTSTART;TZID=Europe/Berlin:20261219T113000
 DTEND;TZID=Europe/Berlin:20261219T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261219T1130-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: Online
 LOCATION:Online
@@ -1960,7 +1960,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261214T080000
 DTEND;TZID=Europe/Berlin:20261214T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261214T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -1970,7 +1970,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261217T080000
 DTEND;TZID=Europe/Berlin:20261217T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261217T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1980,7 +1980,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20261217T094500
 DTEND;TZID=Europe/Berlin:20261217T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261217T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -1989,7 +1989,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20261222T173000
 DTEND;TZID=Europe/Berlin:20261222T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261222T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -1999,7 +1999,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20261222T094500
 DTEND;TZID=Europe/Berlin:20261222T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261222T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -2011,7 +2011,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261223T140000
 DTEND;TZID=Europe/Berlin:20261223T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261223T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2026,7 +2026,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261223T154500
 DTEND;TZID=Europe/Berlin:20261223T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261223T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2039,7 +2039,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20261221T140000
 DTEND;TZID=Europe/Berlin:20261221T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261221T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -2048,7 +2048,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261222T140000
 DTEND;TZID=Europe/Berlin:20261222T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261222T1400-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -2057,7 +2057,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20261222T154500
 DTEND;TZID=Europe/Berlin:20261222T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261222T1545-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -2068,7 +2068,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20261221T173000
 DTEND;TZID=Europe/Berlin:20261221T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261221T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2082,7 +2082,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20261221T154500
 DTEND;TZID=Europe/Berlin:20261221T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261221T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -2092,7 +2092,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261221T094500
 DTEND;TZID=Europe/Berlin:20261221T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261221T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -2102,7 +2102,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20261221T113000
 DTEND;TZID=Europe/Berlin:20261221T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261221T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -2112,7 +2112,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20261223T113000
 DTEND;TZID=Europe/Berlin:20261223T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261223T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -2122,7 +2122,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20261221T080000
 DTEND;TZID=Europe/Berlin:20261221T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20261221T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -2133,7 +2133,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270107T113000
 DTEND;TZID=Europe/Berlin:20270107T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270107T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -2145,7 +2145,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [online]
 DTSTART;TZID=Europe/Berlin:20270109T080000
 DTEND;TZID=Europe/Berlin:20270109T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270109T0800-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: online
 LOCATION:online
@@ -2154,7 +2154,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [online]
 DTSTART;TZID=Europe/Berlin:20270109T094500
 DTEND;TZID=Europe/Berlin:20270109T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270109T0945-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: online
 LOCATION:online
@@ -2163,7 +2163,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Supply Chain Management [online]
 DTSTART;TZID=Europe/Berlin:20270109T113000
 DTEND;TZID=Europe/Berlin:20270109T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270109T1130-WPM-DE:Supp@hs-albstadt
 DESCRIPTION:Dozent: Tas\nRaum: online
 LOCATION:online
@@ -2172,7 +2172,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20270109T080000
 DTEND;TZID=Europe/Berlin:20270109T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270109T0800-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -2181,7 +2181,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20270109T094500
 DTEND;TZID=Europe/Berlin:20270109T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270109T0945-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -2190,7 +2190,7 @@ BEGIN:VEVENT
 SUMMARY:WPM M: Produktionscontrolling - PowerBI [online]
 DTSTART;TZID=Europe/Berlin:20270109T113000
 DTEND;TZID=Europe/Berlin:20270109T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270109T1130-WPMM:Produ@hs-albstadt
 DESCRIPTION:Dozent: Bambach\nRaum: online\nInfo: 8:30-13:30 Uhr
 LOCATION:online
@@ -2200,7 +2200,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20270107T080000
 DTEND;TZID=Europe/Berlin:20270107T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270107T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -2210,7 +2210,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03\, online]
 DTSTART;TZID=Europe/Berlin:20270107T094500
 DTEND;TZID=Europe/Berlin:20270107T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270107T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303\, online
 LOCATION:WIW  Vorlesungsraum W 303\, online
@@ -2221,7 +2221,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270114T113000
 DTEND;TZID=Europe/Berlin:20270114T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270114T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -2233,7 +2233,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20270114T140000
 DTEND;TZID=Europe/Berlin:20270114T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270114T1400-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -2242,7 +2242,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20270114T154500
 DTEND;TZID=Europe/Berlin:20270114T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270114T1545-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -2251,7 +2251,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Anlaufmanagement in der Produktion [online]
 DTSTART;TZID=Europe/Berlin:20270114T173000
 DTEND;TZID=Europe/Berlin:20270114T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270114T1730-WPM-M:Anlau@hs-albstadt
 DESCRIPTION:Dozent: Reck\nRaum: online
 LOCATION:online
@@ -2260,7 +2260,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20270112T173000
 DTEND;TZID=Europe/Berlin:20270112T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270112T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -2270,7 +2270,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20270112T094500
 DTEND;TZID=Europe/Berlin:20270112T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270112T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -2282,7 +2282,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270113T140000
 DTEND;TZID=Europe/Berlin:20270113T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270113T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2297,7 +2297,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270113T154500
 DTEND;TZID=Europe/Berlin:20270113T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270113T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2310,7 +2310,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20270111T140000
 DTEND;TZID=Europe/Berlin:20270111T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270111T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -2319,7 +2319,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20270112T140000
 DTEND;TZID=Europe/Berlin:20270112T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270112T1400-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -2328,7 +2328,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [PC-Pool]
 DTSTART;TZID=Europe/Berlin:20270112T154500
 DTEND;TZID=Europe/Berlin:20270112T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270112T1545-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: PC-Pool\nInfo: Hybrid
 LOCATION:PC-Pool
@@ -2337,7 +2337,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20270113T173000
 DTEND;TZID=Europe/Berlin:20270113T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270113T1730-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -2346,7 +2346,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20270116T080000
 DTEND;TZID=Europe/Berlin:20270116T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270116T0800-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -2355,7 +2355,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20270116T094500
 DTEND;TZID=Europe/Berlin:20270116T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270116T0945-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -2364,7 +2364,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20270116T113000
 DTEND;TZID=Europe/Berlin:20270116T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270116T1130-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -2373,7 +2373,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20270116T140000
 DTEND;TZID=Europe/Berlin:20270116T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270116T1400-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -2382,7 +2382,7 @@ BEGIN:VEVENT
 SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things [online]
 DTSTART;TZID=Europe/Berlin:20270116T154500
 DTEND;TZID=Europe/Berlin:20270116T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270116T1545-WPF-DE:(I)I@hs-albstadt
 DESCRIPTION:Dozent: Kühfuß-Behrend\nRaum: online
 LOCATION:online
@@ -2393,7 +2393,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270111T173000
 DTEND;TZID=Europe/Berlin:20270111T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270111T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2407,7 +2407,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20270111T154500
 DTEND;TZID=Europe/Berlin:20270111T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270111T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -2417,7 +2417,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20270111T094500
 DTEND;TZID=Europe/Berlin:20270111T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270111T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -2427,7 +2427,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20270111T113000
 DTEND;TZID=Europe/Berlin:20270111T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270111T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -2437,7 +2437,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20270113T113000
 DTEND;TZID=Europe/Berlin:20270113T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270113T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -2447,7 +2447,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20270111T080000
 DTEND;TZID=Europe/Berlin:20270111T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270111T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -2457,7 +2457,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20270114T080000
 DTEND;TZID=Europe/Berlin:20270114T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270114T0800-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -2467,7 +2467,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20270114T094500
 DTEND;TZID=Europe/Berlin:20270114T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270114T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
@@ -2478,7 +2478,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Data Science (DPM) [Vorlesungsraum\,
  \, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270115T080000
 DTEND;TZID=Europe/Berlin:20270115T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270115T0800-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, Projektraum T-Gebäude 021\, Projektraum T-Gebäud
@@ -2492,7 +2492,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Data Science (DPM) [Vorlesungsraum\,
  \, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270115T094500
 DTEND;TZID=Europe/Berlin:20270115T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270115T0945-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, Projektraum T-Gebäude 021\, Projektraum T-Gebäud
@@ -2506,7 +2506,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Data Science (DPM) [Vorlesungsraum\,
  \, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270115T113000
 DTEND;TZID=Europe/Berlin:20270115T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270115T1130-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, Projektraum T-Gebäude 021\, Projektraum T-Gebäud
@@ -2520,7 +2520,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Data Science (DPM) [Vorlesungsraum\,
  \, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270115T140000
 DTEND;TZID=Europe/Berlin:20270115T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270115T1400-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, Projektraum T-Gebäude 021\, Projektraum T-Gebäud
@@ -2534,7 +2534,7 @@ SUMMARY:Pflichtpraktikum in Präsenz: Data Science (DPM) [Vorlesungsraum\,
  \, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270115T154500
 DTEND;TZID=Europe/Berlin:20270115T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270115T1545-Pflichtprakt@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: Vorlesungsraum\, WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014\, Projektraum T-Gebäude 021\, Projektraum T-Gebäud
@@ -2548,7 +2548,7 @@ SUMMARY:Automation&Simulation: Teil Automation [WIW Vorlesungsraum T 017\,
  21\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270121T113000
 DTEND;TZID=Europe/Berlin:20270121T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270121T1130-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014\, WIW Produktionslabor T 019\, Projektraum T-Gebäude 021\, Projektra
@@ -2560,7 +2560,7 @@ BEGIN:VEVENT
 SUMMARY:Application Systems-ERP - DPM [online]
 DTSTART;TZID=Europe/Berlin:20270119T173000
 DTEND;TZID=Europe/Berlin:20270119T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270119T1730-Application@hs-albstadt
 DESCRIPTION:Dozent: Nissen\nRaum: online
 LOCATION:online
@@ -2570,7 +2570,7 @@ SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) [WIW
   Vorlesungsraum T 017\, online]
 DTSTART;TZID=Europe/Berlin:20270119T094500
 DTEND;TZID=Europe/Berlin:20270119T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270119T0945-WPM-DataEng@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, online\nInfo:
   hybrid
@@ -2582,7 +2582,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270120T140000
 DTEND;TZID=Europe/Berlin:20270120T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270120T1400-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2597,7 +2597,7 @@ SUMMARY:Data Science - DPM [WIW Projektraum C 111\, WIW Vorlesungsraum T 0
  2\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270120T154500
 DTEND;TZID=Europe/Berlin:20270120T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270120T1545-DataScience@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2610,7 +2610,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Innovation Management [online]
 DTSTART;TZID=Europe/Berlin:20270118T140000
 DTEND;TZID=Europe/Berlin:20270118T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270118T1400-WPM-M:Innov@hs-albstadt
 DESCRIPTION:Dozent: Carruthers\nRaum: online
 LOCATION:online
@@ -2619,7 +2619,7 @@ BEGIN:VEVENT
 SUMMARY:Automation&Simulation: Teil Fertigungssimulation [IT-Sec Labor]
 DTSTART;TZID=Europe/Berlin:20270119T140000
 DTEND;TZID=Europe/Berlin:20270119T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270119T1400-Automation&S@hs-albstadt
 DESCRIPTION:Dozent: Kliem\nRaum: IT-Sec Labor\nInfo: Hybrid
 LOCATION:IT-Sec Labor
@@ -2628,7 +2628,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20270122T140000
 DTEND;TZID=Europe/Berlin:20270122T153000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270122T1400-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -2637,7 +2637,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20270122T154500
 DTEND;TZID=Europe/Berlin:20270122T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270122T1545-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -2646,7 +2646,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security [online]
 DTSTART;TZID=Europe/Berlin:20270122T173000
 DTEND;TZID=Europe/Berlin:20270122T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270122T1730-WPM-DE:Cybe@hs-albstadt
 DESCRIPTION:Dozent: Raichle\nRaum: online
 LOCATION:online
@@ -2657,7 +2657,7 @@ SUMMARY:Machine Learning - Projekt (DPM) [WIW Projektraum C 111\, WIW Vorl
  ojektraum C 112\, Projektraum T-Gebäude 021\, Projektraum T-Gebäude 022]
 DTSTART;TZID=Europe/Berlin:20270118T173000
 DTEND;TZID=Europe/Berlin:20270118T190000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270118T1730-MachineLear@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Projektraum C 111\, WIW Vorlesungsra
  um T 017\, WIW PC-Pool T 014\, WIW Produktionslabor T 019\, WIW Projektrau
@@ -2671,7 +2671,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-DE: Python Programming-Advanced - DEC [online]
 DTSTART;TZID=Europe/Berlin:20270118T154500
 DTEND;TZID=Europe/Berlin:20270118T171500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270118T1545-WPM-DE:Pyth@hs-albstadt
 DESCRIPTION:Dozent: Seidler\nRaum: online
 LOCATION:online
@@ -2681,7 +2681,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20270118T094500
 DTEND;TZID=Europe/Berlin:20270118T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270118T0945-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -2691,7 +2691,7 @@ SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals [WIW Vorlesungsraum
   T 017]
 DTSTART;TZID=Europe/Berlin:20270118T113000
 DTEND;TZID=Europe/Berlin:20270118T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270118T1130-WPF-DE:Arti@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017
 LOCATION:WIW Vorlesungsraum T 017
@@ -2701,7 +2701,7 @@ SUMMARY:WPF Applied Scientific Research (DPM+IAI) [WIW Vorlesungsraum T 01
  7\, WIW PC-Pool T 014]
 DTSTART;TZID=Europe/Berlin:20270120T113000
 DTEND;TZID=Europe/Berlin:20270120T130000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270120T1130-WPFApplied@hs-albstadt
 DESCRIPTION:Dozent: Sommer\nRaum: WIW Vorlesungsraum T 017\, WIW PC-Pool T
   014
@@ -2711,7 +2711,7 @@ BEGIN:VEVENT
 SUMMARY:WPM-M: Smart Factory [WIW Vorlesungsraum W 302\, online]
 DTSTART;TZID=Europe/Berlin:20270118T080000
 DTEND;TZID=Europe/Berlin:20270118T093000
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270118T0800-WPM-M:Smart@hs-albstadt
 DESCRIPTION:Dozent: Wehle\nRaum: WIW Vorlesungsraum W 302\, online
 LOCATION:WIW Vorlesungsraum W 302\, online
@@ -2721,7 +2721,7 @@ SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt [WIW  Vorlesungsraum W 3
  03]
 DTSTART;TZID=Europe/Berlin:20270121T094500
 DTEND;TZID=Europe/Berlin:20270121T111500
-DTSTAMP:20261024T051540Z
+DTSTAMP:20261024T111344Z
 UID:untis-20270121T0945-WPM-M:Recht@hs-albstadt
 DESCRIPTION:Dozent: Widmann\nRaum: WIW  Vorlesungsraum W 303
 LOCATION:WIW  Vorlesungsraum W 303
